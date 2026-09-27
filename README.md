@@ -1,6 +1,5 @@
 # Research_Plan_Strategic_Analysis.docx
 
-# Week 1: Research Plan & Strategic Analysis Framework
 **Internship:** YuvaIntern – NSDC Internship  
 **Role:** Junior Machine Learning Data Analyst – Agriculture & Agribusiness  
 **Intern Name:** Pratikshya Prusty  
